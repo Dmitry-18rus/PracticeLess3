@@ -18,7 +18,7 @@ return countNum;
 // Console.WriteLine($"countNum = {countNum}");
 }
 int count = MetCount(n1);
-Console.WriteLine($"count = {count}");
+// Console.WriteLine($"count = {count}");
 
 bool MetCheck(int n, int count)
 {
